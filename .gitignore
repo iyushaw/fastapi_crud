@@ -1,0 +1,9 @@
+ 
+__pycache__
+*.pyc
+.env
+env/
+*alembic/versions/*
+*.pyo
+*.py.mako
+*_new_migration
